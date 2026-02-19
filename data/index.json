@@ -1,0 +1,35 @@
+{
+  "last_updated": "2026-02-19T22:03:33.924878Z",
+  "available_dates": [
+    "2026-02-18",
+    "2026-02-17",
+    "2026-02-16"
+  ],
+  "available_conferences": [
+    {
+      "id": "acl_2025",
+      "name": "ACL 2025"
+    },
+    {
+      "id": "emnlp_2024",
+      "name": "EMNLP 2024"
+    },
+    {
+      "id": "emnlp_2025",
+      "name": "EMNLP 2025"
+    },
+    {
+      "id": "iclr_2026",
+      "name": "ICLR 2026"
+    }
+  ],
+  "all_tags": [
+    "Agentic AI",
+    "Context Compression",
+    "LLM",
+    "Multi-Modal RAG",
+    "Personalization",
+    "RAG",
+    "Search Agent"
+  ]
+}

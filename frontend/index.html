@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily arXiv Papers</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="home-link">&larr; Home</a>
+        <h1>Daily arXiv Papers</h1>
+        <p class="subtitle">LLM · RAG · Agentic AI · Personalization · Search</p>
+        <button id="lang-toggle" class="lang-toggle">中文</button>
+    </header>
+
+    <div class="container">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-section">
+                <h3 data-i18n="conferences">Conferences</h3>
+                <ul id="conference-list" class="nav-list"></ul>
+            </div>
+            <div class="sidebar-section">
+                <h3 data-i18n="archives">Archives</h3>
+                <ul id="date-list" class="nav-list"></ul>
+            </div>
+        </aside>
+
+        <main class="content">
+            <div id="tag-filters" class="tag-filters"></div>
+            <div id="paper-count" class="paper-count"></div>
+            <div id="paper-list" class="paper-list"></div>
+            <div id="loading" class="loading" style="display:none;">Loading...</div>
+            <div id="empty" class="empty-state" style="display:none;" data-i18n="no_papers">No papers found.</div>
+        </main>
+    </div>
+
+    <script src="js/state.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/i18n.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

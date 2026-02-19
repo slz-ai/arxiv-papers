@@ -1,0 +1,52 @@
+name: Conference Paper Fetch
+
+on:
+  workflow_dispatch:
+    inputs:
+      conference_id:
+        description: 'Conference ID to fetch'
+        required: true
+        type: choice
+        options:
+          - all_openreview
+          - all
+          - iclr_2026
+          - iclr_2025
+          - neurips_2025
+          - neurips_2024
+          - icml_2025
+          - icml_2024
+          - acl_2025
+          - emnlp_2025
+          - naacl_2025
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: 'backend/requirements.txt'
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Fetch conference papers
+        env:
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+        run: python -m backend.fetch_conference ${{ inputs.conference_id }}
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: conference papers ${{ inputs.conference_id }}"
+          git push
