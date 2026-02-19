@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
 
+  # Also trigger when fetch workflows complete (GITHUB_TOKEN pushes don't trigger push event)
+  workflow_run:
+    workflows: ["Daily Paper Fetch", "Conference Paper Fetch"]
+    types: [completed]
+
   workflow_dispatch:
 
 permissions:
