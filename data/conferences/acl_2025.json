@@ -112,7 +112,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -132,7 +134,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.03854",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-03-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -350,7 +354,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-02",
       "source": "conference",
@@ -653,7 +658,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -698,7 +705,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.13216",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-16",
       "source": "conference",
       "conference": "ACL 2025"
@@ -981,7 +990,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -1220,7 +1231,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-07-10",
       "source": "conference",
@@ -1263,7 +1275,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.06806",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-07",
       "source": "conference",
       "conference": "ACL 2025"
@@ -1344,8 +1358,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-16",
       "source": "conference",
@@ -1706,7 +1720,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-16",
       "source": "conference",
@@ -1828,7 +1843,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-02-21",
       "source": "conference",
@@ -2188,7 +2204,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.00637",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-31",
       "source": "conference",
       "conference": "ACL 2025"
@@ -2320,7 +2338,9 @@
       "pdf_url": "https://arxiv.org/pdf/2501.07244",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-01-13",
       "source": "conference",
       "conference": "ACL 2025"
@@ -2357,7 +2377,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.00914",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-01",
       "source": "conference",
       "conference": "ACL 2025"
@@ -2536,7 +2558,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-21",
       "source": "conference",
@@ -2578,7 +2601,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.13628",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-19",
       "source": "conference",
       "conference": "ACL 2025"
@@ -2833,9 +2858,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
         "LLM",
-        "Personalization"
+        "Personalization",
+        "Agentic AI"
       ],
       "published_date": "2025-02-26",
       "source": "conference",
@@ -2924,7 +2949,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.10787",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-07-14",
       "source": "conference",
       "conference": "ACL 2025"
@@ -3202,8 +3229,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -3329,7 +3356,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025-02-19",
       "source": "conference",
@@ -3353,7 +3381,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-18",
       "source": "conference",
@@ -3446,7 +3475,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.01172",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-01",
       "source": "conference",
       "conference": "ACL 2025"
@@ -3659,7 +3690,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-31",
       "source": "conference",
@@ -3683,7 +3715,10 @@
       "pdf_url": "https://arxiv.org/pdf/2506.00805",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-01",
       "source": "conference",
       "conference": "ACL 2025"
@@ -3844,8 +3879,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-02-18",
       "source": "conference",
@@ -3869,8 +3904,10 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Multi-Modal RAG",
-        "RAG"
+        "LLM",
+        "RAG",
+        "Information Retrieval",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -4152,8 +4189,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-27",
       "source": "conference",
@@ -4215,7 +4252,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -4413,7 +4452,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.21043",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-27",
       "source": "conference",
       "conference": "ACL 2025"
@@ -4476,7 +4517,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-04",
       "source": "conference",
@@ -4720,7 +4762,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.18491",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-03-24",
       "source": "conference",
       "conference": "ACL 2025"
@@ -4759,8 +4803,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-02-16",
       "source": "conference",
@@ -4850,7 +4894,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -4874,7 +4920,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.01682",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-03",
       "source": "conference",
       "conference": "ACL 2025"
@@ -4934,7 +4982,9 @@
       "pdf_url": "https://arxiv.org/pdf/2501.05952",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-01-10",
       "source": "conference",
       "conference": "ACL 2025"
@@ -5193,8 +5243,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG",
+        "Context Compression"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -5307,8 +5358,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-02",
       "source": "conference",
@@ -5333,7 +5384,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-01-11",
       "source": "conference",
@@ -5398,7 +5450,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-03-02",
       "source": "conference",
@@ -5486,8 +5539,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-10-28",
       "source": "conference",
@@ -5508,8 +5561,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-05-29",
       "source": "conference",
@@ -5569,7 +5622,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-06-08",
       "source": "conference",
@@ -5886,8 +5940,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-06-07",
       "source": "conference",
@@ -6036,7 +6090,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.18291",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-23",
       "source": "conference",
       "conference": "ACL 2025"
@@ -6138,7 +6195,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.00253",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -6162,7 +6221,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.21926",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -6709,7 +6770,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.04642",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Context Compression"
+      ],
       "published_date": "2025-06-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -6879,8 +6942,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-04",
       "source": "conference",
@@ -7006,7 +7069,10 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -7076,7 +7142,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11357",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Search Agent"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -7278,7 +7346,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.14627",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-20",
       "source": "conference",
       "conference": "ACL 2025"
@@ -7330,8 +7400,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-07",
       "source": "conference",
@@ -7369,7 +7439,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.10507",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-15",
       "source": "conference",
       "conference": "ACL 2025"
@@ -7624,7 +7696,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-03-13",
       "source": "conference",
@@ -7798,7 +7871,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.03458",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-03",
       "source": "conference",
       "conference": "ACL 2025"
@@ -7841,7 +7916,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-23",
       "source": "conference",
@@ -7887,7 +7963,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.12520",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -8051,7 +8129,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-06-01",
       "source": "conference",
@@ -8154,7 +8233,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.02899",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-03",
       "source": "conference",
       "conference": "ACL 2025"
@@ -8468,7 +8549,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11594",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -8594,8 +8677,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-07-16",
       "source": "conference",
@@ -8695,7 +8778,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI"
+        "Agentic AI",
+        "Search Agent"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -8790,8 +8874,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-03-28",
       "source": "conference",
@@ -8900,8 +8984,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-12",
       "source": "conference",
@@ -9231,8 +9315,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-06-01",
       "source": "conference",
@@ -9919,9 +10003,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "Agentic AI",
-        "Context Compression",
-        "LLM"
+        "Context Compression"
       ],
       "published_date": "2025-02-21",
       "source": "conference",
@@ -9966,7 +10050,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -9988,7 +10073,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.21096",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-26",
       "source": "conference",
       "conference": "ACL 2025"
@@ -10084,7 +10171,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.02769",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-04",
       "source": "conference",
       "conference": "ACL 2025"
@@ -10104,7 +10193,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-07-05",
       "source": "conference",
@@ -10197,8 +10287,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "Multi-Modal RAG",
-        "RAG"
+        "RAG",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-12",
       "source": "conference",
@@ -10455,7 +10545,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.04167",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-03-06",
       "source": "conference",
       "conference": "ACL 2025"
@@ -10957,8 +11049,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-02-24",
       "source": "conference",
@@ -11025,7 +11117,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-25",
       "source": "conference",
@@ -11114,7 +11207,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-30",
       "source": "conference",
@@ -11134,7 +11228,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.06506",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-06",
       "source": "conference",
       "conference": "ACL 2025"
@@ -11356,7 +11452,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.22299",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -11579,8 +11678,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -11657,7 +11756,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -11739,6 +11839,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "RAG"
       ],
       "published_date": "2025-05-13",
@@ -11763,8 +11864,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-05-25",
       "source": "conference",
@@ -11807,7 +11908,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.13844",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-20",
       "source": "conference",
       "conference": "ACL 2025"
@@ -12339,7 +12442,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.22137",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -12712,6 +12817,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "RAG"
       ],
       "published_date": "2025-01-05",
@@ -13032,7 +13138,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-20",
       "source": "conference",
@@ -13237,7 +13344,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.20811",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -13318,7 +13427,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-04-19",
       "source": "conference",
@@ -13601,8 +13711,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-04-02",
       "source": "conference",
@@ -13914,7 +14024,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-30",
       "source": "conference",
@@ -14154,7 +14265,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-01-09",
       "source": "conference",
@@ -14178,8 +14290,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -14202,7 +14314,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-18",
       "source": "conference",
@@ -14392,7 +14505,9 @@
       "pdf_url": "https://arxiv.org/pdf/2504.20648",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-04-29",
       "source": "conference",
       "conference": "ACL 2025"
@@ -14565,7 +14680,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.12304",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -14879,9 +14996,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "Agentic AI",
-        "Context Compression",
-        "LLM"
+        "Context Compression"
       ],
       "published_date": "2025-03-10",
       "source": "conference",
@@ -14993,7 +15110,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-17",
       "source": "conference",
@@ -15018,7 +15136,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-16",
       "source": "conference",
@@ -15067,7 +15186,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-01-23",
       "source": "conference",
@@ -15201,7 +15321,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.04929",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -15449,7 +15571,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-12-29",
       "source": "conference",
@@ -15518,8 +15641,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-03-02",
       "source": "conference",
@@ -15978,6 +16101,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "Information Retrieval",
         "Personalization"
       ],
       "published_date": "2025-04-11",
@@ -16080,8 +16204,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-02-11",
       "source": "conference",
@@ -16191,7 +16315,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -16338,7 +16464,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-11",
       "source": "conference",
@@ -16412,8 +16539,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "Personalization",
-        "RAG"
+        "RAG",
+        "Personalization"
       ],
       "published_date": "2025-03-07",
       "source": "conference",
@@ -16548,6 +16675,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "Multi-Modal RAG",
         "Agentic AI"
       ],
       "published_date": "2025-02-24",
@@ -16665,7 +16793,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-07-01",
       "source": "conference",
@@ -16694,7 +16823,10 @@
       "pdf_url": "https://arxiv.org/pdf/2502.18411",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-25",
       "source": "conference",
       "conference": "ACL 2025"
@@ -16717,8 +16849,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-28",
       "source": "conference",
@@ -16745,7 +16877,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.04997",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-06-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -16795,7 +16929,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -17275,7 +17410,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.24355",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -17347,7 +17484,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.21250",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-27",
       "source": "conference",
       "conference": "ACL 2025"
@@ -17635,7 +17775,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "LLM",
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-02-16",
       "source": "conference",
@@ -17775,7 +17917,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-17",
       "source": "conference",
@@ -17901,7 +18044,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-05-28",
       "source": "conference",
@@ -17946,8 +18090,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-17",
       "source": "conference",
@@ -17994,7 +18138,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-03-06",
       "source": "conference",
@@ -18019,6 +18164,7 @@
       "categories": [],
       "tags": [
         "LLM",
+        "Agentic AI",
         "Search Agent"
       ],
       "published_date": "2025-01-17",
@@ -18256,8 +18402,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-06-03",
       "source": "conference",
@@ -18330,7 +18476,9 @@
       "pdf_url": "https://arxiv.org/pdf/2501.16344",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-01-15",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18498,7 +18646,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18664,7 +18814,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11104",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-16",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18783,7 +18935,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.04848",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18804,7 +18958,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.12763",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-19",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18825,7 +18981,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.06844",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-07",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18886,7 +19044,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11859",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -18908,8 +19068,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-16",
       "source": "conference",
@@ -18928,7 +19088,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-30",
       "source": "conference",
@@ -18952,7 +19113,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.20317",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-02-27",
       "source": "conference",
       "conference": "ACL 2025"
@@ -19332,7 +19495,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-21",
       "source": "conference",
@@ -19557,7 +19721,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-07-08",
       "source": "conference",
@@ -19610,7 +19775,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.11073",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-03",
       "source": "conference",
       "conference": "ACL 2025"
@@ -19747,8 +19914,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -19878,7 +20045,9 @@
       "pdf_url": "https://arxiv.org/pdf/2510.16455",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-10-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20025,8 +20194,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-01-17",
       "source": "conference",
@@ -20048,7 +20217,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-08-07",
       "source": "conference",
@@ -20132,7 +20302,9 @@
       "pdf_url": "https://arxiv.org/pdf/2504.16727",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-04-23",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20153,8 +20325,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-05-26",
       "source": "conference",
@@ -20174,7 +20346,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.16763",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-22",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20256,7 +20430,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.24646",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20543,7 +20720,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20564,7 +20743,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.13513",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-16",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20588,7 +20769,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20655,7 +20838,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.16827",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-22",
       "source": "conference",
       "conference": "ACL 2025"
@@ -20717,8 +20902,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -20767,7 +20952,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-02-14",
       "source": "conference",
@@ -20922,7 +21108,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-21",
       "source": "conference",
@@ -21056,7 +21243,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.19830",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-27",
       "source": "conference",
       "conference": "ACL 2025"
@@ -21085,7 +21274,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-16",
       "source": "conference",
@@ -21220,7 +21410,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -21307,7 +21499,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.18503",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-05-24",
       "source": "conference",
       "conference": "ACL 2025"
@@ -21332,8 +21527,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -21473,7 +21668,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.13451",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -21521,8 +21718,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-01-05",
       "source": "conference",
@@ -21550,7 +21747,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-20",
       "source": "conference",
@@ -21645,7 +21843,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.24442",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Agentic AI"
+      ],
       "published_date": "2025-05-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -21673,7 +21874,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Personalization"
+        "LLM",
+        "Personalization",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-06-01",
       "source": "conference",
@@ -21694,9 +21897,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
         "LLM",
-        "RAG"
+        "RAG",
+        "Context Compression"
       ],
       "published_date": "2025-06-05",
       "source": "conference",
@@ -21815,7 +22018,9 @@
       "pdf_url": "https://arxiv.org/pdf/2504.04635",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-04-06",
       "source": "conference",
       "conference": "ACL 2025"
@@ -22469,7 +22674,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-06-18",
       "source": "conference",
@@ -22492,8 +22698,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -22736,8 +22942,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Multi-Modal RAG",
-        "RAG"
+        "RAG",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-06-03",
       "source": "conference",
@@ -22862,7 +23068,10 @@
       "pdf_url": "https://arxiv.org/pdf/2503.13369",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-03-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -23043,7 +23252,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.13063",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Context Compression"
+      ],
       "published_date": "2025-02-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -23255,8 +23466,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Multi-Modal RAG",
-        "RAG"
+        "RAG",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -23364,7 +23575,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.04113",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-07",
       "source": "conference",
       "conference": "ACL 2025"
@@ -23522,7 +23735,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -24119,8 +24333,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-19",
       "source": "conference",
@@ -24326,7 +24540,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-30",
       "source": "conference",
@@ -24866,7 +25081,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.15755",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -25024,7 +25241,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.12054",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -25069,7 +25288,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.03499",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -25105,7 +25326,9 @@
       "pdf_url": "https://arxiv.org/pdf/2504.13439",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-04-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -25581,7 +25804,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.13604",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-19",
       "source": "conference",
       "conference": "ACL 2025"
@@ -26234,7 +26459,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-20",
       "source": "conference",
@@ -26455,7 +26681,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-06-19",
       "source": "conference",
@@ -26474,6 +26701,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "Agentic AI"
       ],
       "published_date": "2025-04-17",
@@ -26499,7 +26727,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.23393",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-29",
       "source": "conference",
       "conference": "ACL 2025"
@@ -26566,9 +26796,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
         "LLM",
-        "RAG"
+        "RAG",
+        "Context Compression"
       ],
       "published_date": "2025-02-21",
       "source": "conference",
@@ -27003,7 +27233,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.23174",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-29",
       "source": "conference",
       "conference": "ACL 2025"
@@ -27125,9 +27357,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
         "LLM",
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025-01-30",
       "source": "conference",
@@ -27177,7 +27409,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -27219,7 +27453,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.16107",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-22",
       "source": "conference",
       "conference": "ACL 2025"
@@ -27306,7 +27542,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11107",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-16",
       "source": "conference",
       "conference": "ACL 2025"
@@ -27377,7 +27615,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-03-03",
       "source": "conference",
@@ -27758,7 +27997,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-03-31",
       "source": "conference",
@@ -27972,7 +28212,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11190",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-16",
       "source": "conference",
       "conference": "ACL 2025"
@@ -28133,7 +28375,9 @@
       "pdf_url": "https://arxiv.org/pdf/2504.09130",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-04-12",
       "source": "conference",
       "conference": "ACL 2025"
@@ -28193,7 +28437,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-12",
       "source": "conference",
@@ -28262,8 +28507,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-13",
       "source": "conference",
@@ -28307,7 +28552,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.09081",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-10",
       "source": "conference",
       "conference": "ACL 2025"
@@ -28572,7 +28819,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-04-22",
       "source": "conference",
@@ -28825,7 +29073,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -28869,7 +29119,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-03-01",
       "source": "conference",
@@ -28892,7 +29143,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11051",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-16",
       "source": "conference",
       "conference": "ACL 2025"
@@ -29026,9 +29279,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
         "LLM",
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -29266,7 +29519,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -29611,9 +29866,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
         "LLM",
-        "RAG"
+        "RAG",
+        "Context Compression"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -29659,8 +29914,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-01-21",
       "source": "conference",
@@ -29756,7 +30011,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.18063",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-23",
       "source": "conference",
       "conference": "ACL 2025"
@@ -29778,8 +30035,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "Personalization"
+        "Personalization",
+        "Agentic AI"
       ],
       "published_date": "2025-03-21",
       "source": "conference",
@@ -29805,7 +30062,9 @@
       "pdf_url": "https://arxiv.org/pdf/2501.03835",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-01-07",
       "source": "conference",
       "conference": "ACL 2025"
@@ -29964,7 +30223,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.20362",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-05-26",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30077,7 +30339,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.14059",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-05-20",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30307,7 +30571,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30326,8 +30592,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-24",
       "source": "conference",
@@ -30366,7 +30632,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30614,7 +30882,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.13773",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-07-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30680,7 +30950,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.11115",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-06-09",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30745,7 +31017,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.11921",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-14",
       "source": "conference",
       "conference": "ACL 2025"
@@ -30911,7 +31185,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.15079",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-20",
       "source": "conference",
       "conference": "ACL 2025"
@@ -31032,7 +31308,10 @@
       "pdf_url": "https://arxiv.org/pdf/2507.07030",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Information Retrieval"
+      ],
       "published_date": "2025-07-09",
       "source": "conference",
       "conference": "ACL 2025"
@@ -31370,7 +31649,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -31439,7 +31720,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.24715",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -31521,8 +31804,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
         "LLM",
+        "Agentic AI",
         "Search Agent"
       ],
       "published_date": "2025-02-07",
@@ -31548,7 +31831,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025-06-04",
       "source": "conference",
@@ -31570,8 +31854,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-09",
       "source": "conference",
@@ -31869,7 +32153,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.03474",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-05",
       "source": "conference",
       "conference": "ACL 2025"
@@ -31893,7 +32179,9 @@
       "pdf_url": "https://arxiv.org/pdf/2504.18243",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-04-25",
       "source": "conference",
       "conference": "ACL 2025"
@@ -31931,7 +32219,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11651",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -32054,7 +32344,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.07453",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-09",
       "source": "conference",
       "conference": "ACL 2025"
@@ -32322,6 +32614,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "Personalization"
       ],
       "published_date": "2025-04-17",
@@ -32371,7 +32664,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.05673",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-07-07",
       "source": "conference",
       "conference": "ACL 2025"
@@ -32409,7 +32704,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.00806",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-01",
       "source": "conference",
       "conference": "ACL 2025"
@@ -32562,8 +32859,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-07-22",
       "source": "conference",
@@ -32780,7 +33077,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.00059",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-27",
       "source": "conference",
       "conference": "ACL 2025"
@@ -32958,6 +33257,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "RAG"
       ],
       "published_date": "2025-05-15",
@@ -33000,7 +33300,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-06-21",
       "source": "conference",
@@ -33041,7 +33342,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.18802",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-25",
       "source": "conference",
       "conference": "ACL 2025"
@@ -33059,7 +33362,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-06-05",
       "source": "conference",
@@ -33083,7 +33387,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.21508",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-26",
       "source": "conference",
       "conference": "ACL 2025"
@@ -33152,8 +33458,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-09",
       "source": "conference",
@@ -33175,8 +33481,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-21",
       "source": "conference",
@@ -33203,7 +33509,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-02-18",
       "source": "conference",
@@ -33326,8 +33633,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -33565,7 +33872,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-23",
       "source": "conference",
@@ -33586,7 +33894,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -33670,8 +33980,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-03-03",
       "source": "conference",
@@ -33777,8 +34087,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-25",
       "source": "conference",
@@ -33818,7 +34128,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "LLM",
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-31",
       "source": "conference",
@@ -33840,7 +34152,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-17",
       "source": "conference",
@@ -33943,7 +34256,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -34008,7 +34323,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.02354",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-03",
       "source": "conference",
       "conference": "ACL 2025"
@@ -34091,7 +34408,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-20",
       "source": "conference",
@@ -34542,8 +34860,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-06-10",
       "source": "conference",
@@ -35038,7 +35356,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-06-18",
       "source": "conference",
@@ -35109,8 +35428,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -35336,7 +35655,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.11155",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-11",
       "source": "conference",
       "conference": "ACL 2025"
@@ -35521,7 +35842,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.24016",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -35542,6 +35865,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "Agentic AI"
       ],
       "published_date": "2025",
@@ -35791,7 +36115,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025-05-24",
       "source": "conference",
@@ -35881,8 +36206,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Personalization",
-        "RAG"
+        "RAG",
+        "Personalization"
       ],
       "published_date": "2025-02-28",
       "source": "conference",
@@ -35985,7 +36310,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.19130",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025-02-26",
       "source": "conference",
       "conference": "ACL 2025"
@@ -36397,7 +36724,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-23",
       "source": "conference",
@@ -36419,7 +36747,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.23224",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-29",
       "source": "conference",
       "conference": "ACL 2025"
@@ -36510,7 +36840,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -36666,7 +36998,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.16787",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-20",
       "source": "conference",
       "conference": "ACL 2025"
@@ -36782,7 +37116,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -37123,7 +37459,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-05-12",
       "source": "conference",
@@ -37143,7 +37480,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -37210,8 +37549,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-18",
       "source": "conference",
@@ -37308,7 +37647,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.00751",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025-03-02",
       "source": "conference",
       "conference": "ACL 2025"
@@ -37464,8 +37805,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Multi-Modal RAG",
-        "RAG"
+        "RAG",
+        "Information Retrieval",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-05-10",
       "source": "conference",
@@ -37736,7 +38078,9 @@
       "pdf_url": "https://arxiv.org/pdf/2501.05122",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-01-09",
       "source": "conference",
       "conference": "ACL 2025"
@@ -38297,8 +38641,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-26",
       "source": "conference",
@@ -38323,7 +38667,9 @@
       "pdf_url": "https://arxiv.org/pdf/2501.02772",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-01-06",
       "source": "conference",
       "conference": "ACL 2025"
@@ -38391,7 +38737,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025-06-26",
       "source": "conference",
@@ -38577,7 +38924,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.15333",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-21",
       "source": "conference",
       "conference": "ACL 2025"
@@ -39070,7 +39419,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.01312",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-02",
       "source": "conference",
       "conference": "ACL 2025"
@@ -39193,8 +39544,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -39607,7 +39958,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.01578",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-05-02",
       "source": "conference",
       "conference": "ACL 2025"
@@ -39648,7 +40001,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -39711,7 +40065,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.22934",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -39926,7 +40282,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.01319",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-06-02",
       "source": "conference",
       "conference": "ACL 2025"
@@ -39949,8 +40307,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-25",
       "source": "conference",
@@ -40711,7 +41069,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.04350",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-07-06",
       "source": "conference",
       "conference": "ACL 2025"
@@ -41175,7 +41535,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -41243,7 +41604,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -41373,8 +41736,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-02",
       "source": "conference",
@@ -41584,7 +41947,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -41673,7 +42038,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-03-16",
       "source": "conference",
@@ -41720,8 +42086,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Information Retrieval",
+        "Agentic AI"
       ],
       "published_date": "2025-03-03",
       "source": "conference",
@@ -41987,7 +42354,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.21061",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-05-27",
       "source": "conference",
       "conference": "ACL 2025"
@@ -42030,7 +42400,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -42056,7 +42428,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "Personalization"
+        "Personalization",
+        "Agentic AI"
       ],
       "published_date": "2025-02-20",
       "source": "conference",
@@ -42185,7 +42558,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -42227,8 +42601,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-03",
       "source": "conference",
@@ -42361,7 +42735,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-05-31",
       "source": "conference",
@@ -42711,7 +43086,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -42890,8 +43266,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-02",
       "source": "conference",
@@ -42969,7 +43345,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -43011,7 +43389,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11431",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -43063,8 +43443,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "Personalization",
-        "RAG"
+        "RAG",
+        "Personalization"
       ],
       "published_date": "2025-03-23",
       "source": "conference",
@@ -43103,7 +43483,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -43234,7 +43616,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-12",
       "source": "conference",
@@ -43538,7 +43921,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -43648,7 +44033,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.12562",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -43755,8 +44142,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025-01-25",
       "source": "conference",
@@ -43843,8 +44230,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-26",
       "source": "conference",
@@ -44014,7 +44401,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -44133,7 +44522,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.00585",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-31",
       "source": "conference",
       "conference": "ACL 2025"
@@ -44203,8 +44594,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -44639,7 +45030,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.08309",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-07-10",
       "source": "conference",
       "conference": "ACL 2025"
@@ -44706,7 +45099,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -44729,8 +45124,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-02",
       "source": "conference",
@@ -45050,7 +45445,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.24525",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-30",
       "source": "conference",
       "conference": "ACL 2025"
@@ -45233,8 +45630,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-06-05",
       "source": "conference",
@@ -45256,8 +45653,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "Personalization",
-        "RAG"
+        "RAG",
+        "Personalization"
       ],
       "published_date": "2025-03-03",
       "source": "conference",
@@ -45394,7 +45791,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -45461,6 +45860,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "RAG"
       ],
       "published_date": "2025-06-22",
@@ -45723,7 +46123,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.22946",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-05-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -45938,7 +46340,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11874",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -45960,7 +46364,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.05863",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-09",
       "source": "conference",
       "conference": "ACL 2025"
@@ -46265,7 +46671,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.06670",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-07-09",
       "source": "conference",
       "conference": "ACL 2025"
@@ -46290,9 +46698,9 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
         "LLM",
-        "RAG"
+        "RAG",
+        "Agentic AI"
       ],
       "published_date": "2025-01-13",
       "source": "conference",
@@ -46312,8 +46720,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-17",
       "source": "conference",
@@ -46420,7 +46828,10 @@
       "pdf_url": "https://arxiv.org/pdf/2502.13928",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
       "published_date": "2025-02-19",
       "source": "conference",
       "conference": "ACL 2025"
@@ -46485,7 +46896,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.04083",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-04",
       "source": "conference",
       "conference": "ACL 2025"
@@ -46556,7 +46969,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Information Retrieval"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -46705,7 +47119,10 @@
       "pdf_url": "https://arxiv.org/pdf/2505.21863",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM",
+        "Agentic AI"
+      ],
       "published_date": "2025-05-28",
       "source": "conference",
       "conference": "ACL 2025"
@@ -46778,8 +47195,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Context Compression",
-        "LLM"
+        "LLM",
+        "Context Compression"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -46942,8 +47359,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-26",
       "source": "conference",
@@ -46966,7 +47383,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-02-04",
       "source": "conference",
@@ -46990,7 +47408,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -47055,8 +47474,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025",
       "source": "conference",
@@ -47422,8 +47841,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-04-04",
       "source": "conference",
@@ -47592,7 +48011,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-03-11",
       "source": "conference",
@@ -47677,7 +48097,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.11492",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -47719,7 +48141,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.20293",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-26",
       "source": "conference",
       "conference": "ACL 2025"
@@ -47998,8 +48422,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "Agentic AI",
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-07-25",
       "source": "conference",
@@ -48164,7 +48588,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.19356",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Information Retrieval"
+      ],
       "published_date": "2025-05-25",
       "source": "conference",
       "conference": "ACL 2025"
@@ -48232,7 +48658,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -48370,7 +48798,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.12782",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -48419,6 +48849,7 @@
       "primary_category": "",
       "categories": [],
       "tags": [
+        "LLM",
         "Personalization"
       ],
       "published_date": "2025-07-25",
@@ -48441,7 +48872,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-25",
       "source": "conference",
@@ -48869,7 +49301,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "RAG"
       ],
       "published_date": "2025-06-01",
       "source": "conference",
@@ -49191,7 +49624,9 @@
       "pdf_url": "https://arxiv.org/pdf/2507.01702",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "Agentic AI"
+      ],
       "published_date": "2025-07-02",
       "source": "conference",
       "conference": "ACL 2025"
@@ -49335,7 +49770,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.15639",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-21",
       "source": "conference",
       "conference": "ACL 2025"
@@ -49668,7 +50105,9 @@
       "pdf_url": "https://arxiv.org/pdf/2503.01461",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-03-03",
       "source": "conference",
       "conference": "ACL 2025"
@@ -49754,7 +50193,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2025-03-06",
       "source": "conference",
@@ -49972,7 +50412,9 @@
       "pdf_url": "https://arxiv.org/pdf/2506.15081",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-06-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50072,7 +50514,9 @@
       "pdf_url": "https://arxiv.org/pdf/2502.12420",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-02-18",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50093,7 +50537,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50137,7 +50583,8 @@
       "categories": [],
       "tags": [
         "LLM",
-        "RAG"
+        "RAG",
+        "Information Retrieval"
       ],
       "published_date": "2025-02-25",
       "source": "conference",
@@ -50351,7 +50798,9 @@
       "pdf_url": "",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50368,7 +50817,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.10719",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-15",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50429,7 +50880,8 @@
       "primary_category": "",
       "categories": [],
       "tags": [
-        "LLM"
+        "LLM",
+        "Agentic AI"
       ],
       "published_date": "2025-02-18",
       "source": "conference",
@@ -50633,7 +51085,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.16526",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-22",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50721,7 +51175,9 @@
       "pdf_url": "https://arxiv.org/pdf/2505.11983",
       "primary_category": "",
       "categories": [],
-      "tags": [],
+      "tags": [
+        "LLM"
+      ],
       "published_date": "2025-05-17",
       "source": "conference",
       "conference": "ACL 2025"
@@ -50749,6 +51205,7 @@
   "available_tags": [
     "Agentic AI",
     "Context Compression",
+    "Information Retrieval",
     "LLM",
     "Multi-Modal RAG",
     "Personalization",
