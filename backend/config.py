@@ -17,16 +17,29 @@ KEYWORDS = {
     "LLM": [
         "large language model", "LLM", "LLMs",
         "language model pretraining", "instruction tuning",
-        "GPT", "ChatGPT", "LLaMA", "Llama",
+        "foundation model", "pre-trained language model",
+        "GPT", "ChatGPT", "LLaMA", "Llama", "Mistral", "Gemini",
+        "fine-tuning", "RLHF", "alignment",
     ],
     "RAG": [
         "retrieval-augmented generation", "retrieval augmented",
         "RAG", "retrieve-and-generate",
+        "knowledge-grounded generation", "grounded generation",
+    ],
+    "Information Retrieval": [
+        "information retrieval",
+        "dense retrieval", "sparse retrieval", "neural retrieval",
+        "document retrieval", "passage retrieval",
+        "re-ranking", "reranking", "neural ranking",
+        "bi-encoder", "cross-encoder",
+        "BM25", "query understanding", "query expansion",
+        "search ranking", "relevance ranking",
+        "embedding retrieval", "semantic search",
     ],
     "Personalization": [
         "personalization", "personalized",
         "user preference", "user modeling", "user profile",
-        "recommendation system",
+        "recommendation system", "collaborative filtering",
     ],
     "Multi-Modal RAG": [
         "multi-modal retrieval", "multimodal RAG",
@@ -37,15 +50,18 @@ KEYWORDS = {
         "agentic", "AI agent", "AI agents",
         "autonomous agent", "tool-use", "tool use",
         "function calling", "agent framework",
+        "multi-agent", "multi agent", "LLM agent",
     ],
     "Search Agent": [
         "search agent", "web search agent",
         "information retrieval agent", "browsing agent",
+        "web agent", "search-augmented",
     ],
     "Context Compression": [
         "context compression", "prompt compression",
         "context distillation", "context pruning",
         "context window", "long context",
+        "key-value cache", "KV cache compression",
     ],
 }
 
