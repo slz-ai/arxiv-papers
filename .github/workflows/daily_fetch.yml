@@ -2,8 +2,9 @@ name: Daily Paper Fetch
 
 on:
   schedule:
-    # arXiv announces new papers at ~20:00 UTC, Sun-Thu
-    - cron: '0 21 * * 0-4'
+    # arXiv announces papers at ~20:00 ET = ~01:00 UTC next day (Mon-Fri)
+    # Run Tue-Sat at 03:00 UTC to fetch the previous day's listings
+    - cron: '0 3 * * 2-6'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
