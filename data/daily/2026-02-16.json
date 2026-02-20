@@ -1,6 +1,6 @@
 {
   "date": "2026-02-16",
-  "paper_count": 88,
+  "paper_count": 114,
   "papers": [
     {
       "arxiv_id": "2602.15259v1",
@@ -42,7 +42,8 @@
         "cs.CL"
       ],
       "tags": [
-        "Context Compression"
+        "Context Compression",
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -69,6 +70,30 @@
       ],
       "tags": [
         "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.15236v1",
+      "title": "BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening",
+      "authors": [
+        "Anjie Qiao",
+        "Zhen Wang",
+        "Yaliang Li",
+        "Jiahua Rao",
+        "Yuedong Yang"
+      ],
+      "abstract": "Virtual screening aims to efficiently identify active ligands from massive chemical libraries for a given target pocket. Recent CLIP-style models such as DrugCLIP enable scalable virtual screening by embedding pockets and ligands into a shared space. However, our analyses indicate that such representations can be insensitive to fine-grained binding interactions and may rely on shortcut correlations in training data, limiting their ability to rank ligands by true binding compatibility. To address these issues, we propose BindCLIP, a unified contrastive-generative representation learning framework for virtual screening. BindCLIP jointly trains pocket and ligand encoders using CLIP-style contrastive learning together with a pocket-conditioned diffusion objective for binding pose generation, so that pose-level supervision directly shapes the retrieval embedding space toward interaction-relevant features. To further mitigate shortcut reliance, we introduce hard-negative augmentation and a ligand-ligand anchoring regularizer that prevents representation collapse. Experiments on two public benchmarks demonstrate consistent improvements over strong baselines. BindCLIP achieves substantial gains on challenging out-of-distribution virtual screening and improves ligand-analogue ranking on the FEP+ benchmark. Together, these results indicate that integrating generative, pose-level supervision with contrastive learning yields more interaction-aware embeddings and improves generalization in realistic screening settings, bringing virtual screening closer to real-world applicability.",
+      "arxiv_url": "http://arxiv.org/abs/2602.15236v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.15236v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "tags": [
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -143,6 +168,7 @@
         "cs.CL"
       ],
       "tags": [
+        "Agentic AI",
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -222,6 +248,7 @@
       ],
       "tags": [
         "LLM",
+        "Multi-Modal RAG",
         "RAG"
       ],
       "published_date": "2026-02-16",
@@ -247,6 +274,7 @@
         "cs.CL"
       ],
       "tags": [
+        "Information Retrieval",
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -273,7 +301,9 @@
         "cs.CL"
       ],
       "tags": [
-        "LLM"
+        "Information Retrieval",
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -447,6 +477,35 @@
       "conference": null
     },
     {
+      "arxiv_id": "2602.15021v1",
+      "title": "Generalization from Low- to Moderate-Resolution Spectra with Neural Networks for Stellar Parameter Estimation: A Case Study with DESI",
+      "authors": [
+        "Xiaosheng Zhao",
+        "Yuan-Sen Ting",
+        "Rosemary F. G. Wyse",
+        "Alexander S. Szalay",
+        "Yang Huang",
+        "László Dobos",
+        "Tamás Budavári",
+        "Viska Wei"
+      ],
+      "abstract": "Cross-survey generalization is a critical challenge in stellar spectral analysis, particularly in cases such as transferring from low- to moderate-resolution surveys. We investigate this problem using pre-trained models, focusing on simple neural networks such as multilayer perceptrons (MLPs), with a case study transferring from LAMOST low-resolution spectra (LRS) to DESI medium-resolution spectra (MRS). Specifically, we pre-train MLPs on either LRS or their embeddings and fine-tune them for application to DESI stellar spectra. We compare MLPs trained directly on spectra with those trained on embeddings derived from transformer-based models (self-supervised foundation models pre-trained for multiple downstream tasks). We also evaluate different fine-tuning strategies, including residual-head adapters, LoRA, and full fine-tuning. We find that MLPs pre-trained on LAMOST LRS achieve strong performance, even without fine-tuning, and that modest fine-tuning with DESI spectra further improves the results. For iron abundance, embeddings from a transformer-based model yield advantages in the metal-rich ([Fe/H] > -1.0) regime, but underperform in the metal-poor regime compared to MLPs trained directly on LRS. We also show that the optimal fine-tuning strategy depends on the specific stellar parameter under consideration. These results highlight that simple pre-trained MLPs can provide competitive cross-survey generalization, while the role of spectral foundation models for cross-survey stellar parameter estimation requires further exploration.",
+      "arxiv_url": "http://arxiv.org/abs/2602.15021v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.15021v1",
+      "primary_category": "astro-ph.SR",
+      "categories": [
+        "astro-ph.SR",
+        "astro-ph.GA",
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
       "arxiv_id": "2602.15019v2",
       "title": "Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence",
       "authors": [
@@ -523,7 +582,58 @@
         "cs.LG"
       ],
       "tags": [
+        "LLM",
         "Personalization"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.15010v2",
+      "title": "BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames",
+      "authors": [
+        "Max Sobol Mark",
+        "Jacky Liang",
+        "Maria Attarian",
+        "Chuyuan Fu",
+        "Debidatta Dwibedi",
+        "Dhruv Shah",
+        "Aviral Kumar"
+      ],
+      "abstract": "Many robot tasks require attending to the history of past observations. For example, finding an item in a room requires remembering which places have already been searched. However, the best-performing robot policies typically condition only on the current observation, limiting their applicability to such tasks. Naively conditioning on past observations often fails due to spurious correlations: policies latch onto incidental features of training histories that do not generalize to out-of-distribution trajectories upon deployment. We analyze why policies latch onto these spurious correlations and find that this problem stems from limited coverage over the space of possible histories during training, which grows exponentially with horizon. Existing regularization techniques provide inconsistent benefits across tasks, as they do not fundamentally address this coverage problem. Motivated by these findings, we propose Big Picture Policies (BPP), an approach that conditions on a minimal set of meaningful keyframes detected by a vision-language model. By projecting diverse rollouts onto a compact set of task-relevant events, BPP substantially reduces distribution shift between training and deployment, without sacrificing expressivity. We evaluate BPP on four challenging real-world manipulation tasks and three simulation tasks, all requiring history conditioning. BPP achieves 70% higher success rates than the best comparison on real-world evaluations. Videos are available at https://bigpicturepolicies.github.io/",
+      "arxiv_url": "http://arxiv.org/abs/2602.15010v2",
+      "pdf_url": "https://arxiv.org/pdf/2602.15010v2",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.15006v1",
+      "title": "Distributed Quantum Gaussian Processes for Multi-Agent Systems",
+      "authors": [
+        "Meet Gandhi",
+        "George P. Kontoudis"
+      ],
+      "abstract": "Gaussian Processes (GPs) are a powerful tool for probabilistic modeling, but their performance is often constrained in complex, largescale real-world domains due to the limited expressivity of classical kernels. Quantum computing offers the potential to overcome this limitation by embedding data into exponentially large Hilbert spaces, capturing complex correlations that remain inaccessible to classical computing approaches. In this paper, we propose a Distributed Quantum Gaussian Process (DQGP) method in a multiagent setting to enhance modeling capabilities and scalability. To address the challenging non-Euclidean optimization problem, we develop a Distributed consensus Riemannian Alternating Direction Method of Multipliers (DR-ADMM) algorithm that aggregates local agent models into a global model. We evaluate the efficacy of our method through numerical experiments conducted on a quantum simulator in classical hardware. We use real-world, non-stationary elevation datasets of NASA's Shuttle Radar Topography Mission and synthetic datasets generated by Quantum Gaussian Processes. Beyond modeling advantages, our framework highlights potential computational speedups that quantum hardware may provide, particularly in Gaussian processes and distributed optimization.",
+      "arxiv_url": "http://arxiv.org/abs/2602.15006v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.15006v1",
+      "primary_category": "cs.MA",
+      "categories": [
+        "cs.MA",
+        "cs.LG",
+        "math.DG"
+      ],
+      "tags": [
+        "Agentic AI"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -555,6 +665,39 @@
       "conference": null
     },
     {
+      "arxiv_id": "2602.15004v1",
+      "title": "PDE foundation models are skillful AI weather emulators for the Martian atmosphere",
+      "authors": [
+        "Johannes Schmude",
+        "Sujit Roy",
+        "Liping Wang",
+        "Theodore van Kessel",
+        "Levente Klein",
+        "Marcus Freitag",
+        "Eloisa Bentivegna",
+        "Robert Manson-Sawko",
+        "Bjorn Lutjens",
+        "Manil Maskey",
+        "Campbell Watson",
+        "Rahul Ramachandran",
+        "Juan Bernabe-Moreno"
+      ],
+      "abstract": "We show that AI foundation models that are pretrained on numerical solutions to a diverse corpus of partial differential equations can be adapted and fine-tuned to obtain skillful predictive weather emulators for the Martian atmosphere. We base our work on the Poseidon PDE foundation model for two-dimensional systems. We develop a method to extend Poseidon from two to three dimensions while keeping the pretraining information. Moreover, we investigate the performance of the model in the presence of sparse initial conditions. Our results make use of four Martian years (approx.~34 GB) of training data and a median compute budget of 13 GPU hours. We find that the combination of pretraining and model extension yields a performance increase of 34.4\\% on a held-out year. This shows that PDEs-FMs can not only approximate solutions to (other) PDEs but also anchor models for real-world problems with complex interactions that lack a sufficient amount of training data or a suitable compute budget.",
+      "arxiv_url": "http://arxiv.org/abs/2602.15004v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.15004v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "physics.ao-ph"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
       "arxiv_id": "2602.15001v2",
       "title": "Boundary Point Jailbreaking of Black-Box LLMs",
       "authors": [
@@ -574,6 +717,33 @@
       ],
       "tags": [
         "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14989v1",
+      "title": "ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery",
+      "authors": [
+        "Ayush Shrivastava",
+        "Kirtan Gangani",
+        "Laksh Jain",
+        "Mayank Goel",
+        "Nipun Batra"
+      ],
+      "abstract": "Vision language models (VLMs) achieve strong performance on RGB imagery, but they do not generalize to thermal images. Thermal sensing plays a critical role in settings where visible light fails, including nighttime surveillance, search and rescue, autonomous driving, and medical screening. Unlike RGB imagery, thermal images encode physical temperature rather than color or texture, requiring perceptual and reasoning capabilities that existing RGB-centric benchmarks do not evaluate. We introduce ThermEval-B, a structured benchmark of approximately 55,000 thermal visual question answering pairs designed to assess the foundational primitives required for thermal vision language understanding. ThermEval-B integrates public datasets with our newly collected ThermEval-D, the first dataset to provide dense per-pixel temperature maps with semantic body-part annotations across diverse indoor and outdoor environments. Evaluating 25 open-source and closed-source VLMs, we find that models consistently fail at temperature-grounded reasoning, degrade under colormap transformations, and default to language priors or fixed responses, with only marginal gains from prompting or supervised fine-tuning. These results demonstrate that thermal understanding requires dedicated evaluation beyond RGB-centric assumptions, positioning ThermEval as a benchmark to drive progress in thermal vision language modeling.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14989v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14989v1",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -623,7 +793,33 @@
         "cs.AI"
       ],
       "tags": [
+        "Agentic AI",
         "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14960v1",
+      "title": "DRAMA: Domain Retrieval using Adaptive Module Allocation",
+      "authors": [
+        "Pranav Kasela",
+        "Marco Braga",
+        "Ophir Frieder",
+        "Nazli Goharian",
+        "Gabriella Pasi",
+        "Raffaele Perego"
+      ],
+      "abstract": "Neural models are increasingly used in Web-scale Information Retrieval (IR). However, relying on these models introduces substantial computational and energy requirements, leading to increasing attention toward their environmental cost and the sustainability of large-scale deployments. While neural IR models deliver high retrieval effectiveness, their scalability is constrained in multi-domain scenarios, where training and maintaining domain-specific models is inefficient and achieving robust cross-domain generalisation within a unified model remains difficult. This paper introduces DRAMA (Domain Retrieval using Adaptive Module Allocation), an energy- and parameter-efficient framework designed to reduce the environmental footprint of neural retrieval. DRAMA integrates domain-specific adapter modules with a dynamic gating mechanism that selects the most relevant domain knowledge for each query. New domains can be added efficiently through lightweight adapter training, avoiding full model retraining. We evaluate DRAMA on multiple Web retrieval benchmarks covering different domains. Our extensive evaluation shows that DRAMA achieves comparable effectiveness to domain-specific models while using only a fraction of their parameters and computational resources. These findings show that energy-aware model design can significantly improve scalability and sustainability in neural IR.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14960v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14960v1",
+      "primary_category": "cs.IR",
+      "categories": [
+        "cs.IR"
+      ],
+      "tags": [
+        "Information Retrieval"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -671,6 +867,7 @@
         "cs.AI"
       ],
       "tags": [
+        "Agentic AI",
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -748,7 +945,68 @@
         "cs.MA"
       ],
       "tags": [
-        "Agentic AI"
+        "Agentic AI",
+        "Multi-Modal RAG"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14889v1",
+      "title": "Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment",
+      "authors": [
+        "Mounvik K",
+        "N Harshit"
+      ],
+      "abstract": "We introduce Web-Scale Multimodal Summarization, a lightweight framework for generating summaries by combining retrieved text and image data from web sources. Given a user-defined topic, the system performs parallel web, news, and image searches. Retrieved images are ranked using a fine-tuned CLIP model to measure semantic alignment with topic and text. Optional BLIP captioning enables image-only summaries for stronger multimodal coherence.The pipeline supports features such as adjustable fetch limits, semantic filtering, summary styling, and downloading structured outputs. We expose the system via a Gradio-based API with controllable parameters and preconfigured presets.Evaluation on 500 image-caption pairs with 20:1 contrastive negatives yields a ROC-AUC of 0.9270, an F1-score of 0.6504, and an accuracy of 96.99%, demonstrating strong multimodal alignment. This work provides a configurable, deployable tool for web-scale summarization that integrates language, retrieval, and vision models in a user-extensible pipeline.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14889v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14889v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.CV",
+        "cs.ET",
+        "cs.HC",
+        "cs.NE"
+      ],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14879v2",
+      "title": "CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography",
+      "authors": [
+        "Qingqing Zhu",
+        "Qiao Jin",
+        "Tejas S. Mathai",
+        "Yin Fang",
+        "Zhizheng Wang",
+        "Yifan Yang",
+        "Maame Sarfo-Gyamfi",
+        "Benjamin Hou",
+        "Ran Gu",
+        "Praveen T. S. Balamuralikrishna",
+        "Kenneth C. Wang",
+        "Ronald M. Summers",
+        "Zhiyong Lu"
+      ],
+      "abstract": "Artificial intelligence (AI) can automatically delineate lesions on computed tomography (CT) and generate radiology report content, yet progress is limited by the scarcity of publicly available CT datasets with lesion-level annotations. To bridge this gap, we introduce CT-Bench, a first-of-its-kind benchmark dataset comprising two components: a Lesion Image and Metadata Set containing 20,335 lesions from 7,795 CT studies with bounding boxes, descriptions, and size information, and a multitask visual question answering benchmark with 2,850 QA pairs covering lesion localization, description, size estimation, and attribute categorization. Hard negative examples are included to reflect real-world diagnostic challenges. We evaluate multiple state-of-the-art multimodal models, including vision-language and medical CLIP variants, by comparing their performance to radiologist assessments, demonstrating the value of CT-Bench as a comprehensive benchmark for lesion analysis. Moreover, fine-tuning models on the Lesion Image and Metadata Set yields significant performance gains across both components, underscoring the clinical utility of CT-Bench.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14879v2",
+      "pdf_url": "https://arxiv.org/pdf/2602.14879v2",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -836,6 +1094,50 @@
       "conference": null
     },
     {
+      "arxiv_id": "2602.14844v1",
+      "title": "Interactionless Inverse Reinforcement Learning: A Data-Centric Framework for Durable Alignment",
+      "authors": [
+        "Elias Malomgré",
+        "Pieter Simoens"
+      ],
+      "abstract": "AI alignment is growing in importance, yet current approaches suffer from a critical structural flaw that entangles the safety objectives with the agent's policy. Methods such as Reinforcement Learning from Human Feedback and Direct Preference Optimization create opaque, single-use alignment artifacts, which we term Alignment Waste. We propose Interactionless Inverse Reinforcement Learning to decouple alignment artifact learning from policy optimization, producing an inspectable, editable, and model-agnostic reward model. Additionally, we introduce the Alignment Flywheel, a human-in-the-loop lifecycle that iteratively hardens the reward model through automated audits and refinement. This architecture transforms safety from a disposable expense into a durable, verifiable engineering asset.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14844v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14844v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14834v1",
+      "title": "Debiasing Central Fixation Confounds Reveals a Peripheral \"Sweet Spot\" for Human-like Scanpaths in Hard-Attention Vision",
+      "authors": [
+        "Pengcheng Pan",
+        "Yonekura Shogo",
+        "Yasuo Kuniyosh"
+      ],
+      "abstract": "Human eye movements in visual recognition reflect a balance between foveal sampling and peripheral context. Task-driven hard-attention models for vision are often evaluated by how well their scanpaths match human gaze. However, common scanpath metrics can be strongly confounded by dataset-specific center bias, especially on object-centric datasets. Using Gaze-CIFAR-10, we show that a trivial center-fixation baseline achieves surprisingly strong scanpath scores, approaching many learned policies. This makes standard metrics optimistic and blurs the distinction between genuine behavioral alignment and mere central tendency. We then analyze a hard-attention classifier under constrained vision by sweeping foveal patch size and peripheral context, revealing a peripheral sweet spot: only a narrow range of sensory constraints yields scanpaths that are simultaneously (i) above the center baseline after debiasing and (ii) temporally human-like in movement statistics. To address center bias, we propose GCS (Gaze Consistency Score), a center-debiased composite metric augmented with movement similarity. GCS uncovers a robust sweet spot at medium patch size with both foveal and peripheral vision, that is not obvious from raw scanpath metrics or accuracy alone, and also highlights a \"shortcut regime\" when the field-of-view becomes too large. We discuss implications for evaluating active perception on object-centric datasets and for designing gaze benchmarks that better separate behavioral alignment from center bias.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14834v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14834v1",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
       "arxiv_id": "2602.14833v1",
       "title": "RF-GPT: Teaching AI to See the Wireless World",
       "authors": [
@@ -853,6 +1155,31 @@
       "primary_category": "eess.SP",
       "categories": [
         "eess.SP",
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14828v1",
+      "title": "Exploring the limits of pre-trained embeddings in machine-guided protein design: a case study on predicting AAV vector viability",
+      "authors": [
+        "Ana F. Rodrigues",
+        "Lucas Ferraz",
+        "Laura Balbi",
+        "Pedro Giesteira Cotovio",
+        "Catia Pesquita"
+      ],
+      "abstract": "Effective representations of protein sequences are widely recognized as a cornerstone of machine learning-based protein design. Yet, protein bioengineering poses unique challenges for sequence representation, as experimental datasets typically feature few mutations, which are either sparsely distributed across the entire sequence or densely concentrated within localized regions. This limits the ability of sequence-level representations to extract functionally meaningful signals. In addition, comprehensive comparative studies remain scarce, despite their crucial role in clarifying which representations best encode relevant information and ultimately support superior predictive performance. In this study, we systematically evaluate multiple ProtBERT and ESM2 embedding variants as sequence representations, using the adeno-associated virus capsid as a case study and prototypical example of bioengineering, where functional optimization is targeted through highly localized sequence variation within an otherwise large protein. Our results reveal that, prior to fine-tuning, amino acid-level embeddings outperform sequence-level representations in supervised predictive tasks, whereas the latter tend to be more effective in unsupervised settings. However, optimal performance is only achieved when embeddings are fine-tuned with task-specific labels, with sequence-level representations providing the best performance. Moreover, our findings indicate that the extent of sequence variation required to produce notable shifts in sequence representations exceeds what is typically explored in bioengineering studies, showing the need for fine-tuning in datasets characterized by sparse or highly localized mutations.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14828v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14828v1",
+      "primary_category": "q-bio.QM",
+      "categories": [
+        "q-bio.QM",
         "cs.LG"
       ],
       "tags": [
@@ -885,7 +1212,7 @@
       "conference": null
     },
     {
-      "arxiv_id": "2602.15909v1",
+      "arxiv_id": "2602.15909v2",
       "title": "Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis",
       "authors": [
         "Pengfei Zhang",
@@ -894,8 +1221,8 @@
         "Li Liu"
       ],
       "abstract": "Deep learning-based respiratory auscultation is currently hindered by two fundamental challenges: (i) inherent information loss, as converting signals into spectrograms discards transient acoustic events and clinical context; (ii) limited data availability, exacerbated by severe class imbalance. To bridge these gaps, we present Resp-Agent, an autonomous multimodal system orchestrated by a novel Active Adversarial Curriculum Agent (Thinker-A$^2$CA). Unlike static pipelines, Thinker-A$^2$CA serves as a central controller that actively identifies diagnostic weaknesses and schedules targeted synthesis in a closed loop. To address the representation gap, we introduce a Modality-Weaving Diagnoser that weaves EHR data with audio tokens via Strategic Global Attention and sparse audio anchors, capturing both long-range clinical context and millisecond-level transients. To address the data gap, we design a Flow Matching Generator that adapts a text-only Large Language Model (LLM) via modality injection, decoupling pathological content from acoustic style to synthesize hard-to-diagnose samples. As a foundation for these efforts, we introduce Resp-229k, a benchmark corpus of 229k recordings paired with LLM-distilled clinical narratives. Extensive experiments demonstrate that Resp-Agent consistently outperforms prior approaches across diverse evaluation settings, improving diagnostic robustness under data scarcity and long-tailed class imbalance. Our code and data are available at https://github.com/zpforlove/Resp-Agent.",
-      "arxiv_url": "http://arxiv.org/abs/2602.15909v1",
-      "pdf_url": "https://arxiv.org/pdf/2602.15909v1",
+      "arxiv_url": "http://arxiv.org/abs/2602.15909v2",
+      "pdf_url": "https://arxiv.org/pdf/2602.15909v2",
       "primary_category": "eess.AS",
       "categories": [
         "eess.AS",
@@ -951,8 +1278,36 @@
         "cs.IR"
       ],
       "tags": [
+        "Information Retrieval",
         "LLM",
         "RAG"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14780v1",
+      "title": "ROSA: Roundabout Optimized Speed Advisory with Multi-Agent Trajectory Prediction in Multimodal Traffic",
+      "authors": [
+        "Anna-Lena Schlamp",
+        "Jeremias Gerner",
+        "Klaus Bogenberger",
+        "Werner Huber",
+        "Stefanie Schmidtner"
+      ],
+      "abstract": "We present ROSA -- Roundabout Optimized Speed Advisory -- a system that combines multi-agent trajectory prediction with coordinated speed guidance for multimodal, mixed traffic at roundabouts. Using a Transformer-based model, ROSA jointly predicts the future trajectories of vehicles and Vulnerable Road Users (VRUs) at roundabouts. Trained for single-step prediction and deployed autoregressively, it generates deterministic outputs, enabling actionable speed advisories. Incorporating motion dynamics, the model achieves high accuracy (ADE: 1.29m, FDE: 2.99m at a five-second prediction horizon), surpassing prior work. Adding route intention further improves performance (ADE: 1.10m, FDE: 2.36m), demonstrating the value of connected vehicle data. Based on predicted conflicts with VRUs and circulating vehicles, ROSA provides real-time, proactive speed advisories for approaching and entering the roundabout. Despite prediction uncertainty, ROSA significantly improves vehicle efficiency and safety, with positive effects even on perceived safety from a VRU perspective. The source code of this work is available under: github.com/urbanAIthi/ROSA.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14780v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14780v1",
+      "primary_category": "cs.MA",
+      "categories": [
+        "cs.MA",
+        "cs.CY",
+        "cs.RO",
+        "eess.SY"
+      ],
+      "tags": [
+        "Agentic AI"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -1027,6 +1382,33 @@
         "cs.AI",
         "cs.CY",
         "cs.HC"
+      ],
+      "tags": [
+        "Agentic AI",
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14763v1",
+      "title": "Unlocking Reasoning Capability on Machine Translation in Large Language Models",
+      "authors": [
+        "Sara Rajaee",
+        "Sebastian Vincent",
+        "Alexandre Berard",
+        "Marzieh Fadaee",
+        "Kelly Marchisio",
+        "Tom Kocmi"
+      ],
+      "abstract": "Reasoning-oriented large language models (RLMs) achieve strong gains on tasks such as mathematics and coding by generating explicit intermediate reasoning. However, their impact on machine translation (MT) remains underexplored. We systematically evaluate several open- and closed-weights RLMs on the WMT24++ benchmark and find that enabling explicit reasoning consistently degrades translation quality across languages and models. Analysis reveals that MT reasoning traces are highly linear, lacking revision, self-correction and exploration of alternative translations, which limits their usefulness. Furthermore, injecting higher-quality reasoning traces from stronger models does not reliably improve weaker models' performance. To address this mismatch, we propose a structured reasoning framework tailored to translation, based on multi-step drafting, adequacy refinement, fluency improvement, and selective iterative revision. We curate a synthetic dataset of dynamic structured reasoning traces and post-train a large reasoning model on this data. Experiments show significant improvements over standard translation fine-tuning and injected generic reasoning baselines. Our findings demonstrate that reasoning must be task-structured to benefit MT.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14763v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14763v1",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
       ],
       "tags": [
         "LLM"
@@ -1157,6 +1539,27 @@
       "conference": null
     },
     {
+      "arxiv_id": "2602.14728v1",
+      "title": "D2-LoRA: A Synergistic Approach to Differential and Directional Low-Rank Adaptation",
+      "authors": [
+        "Nozomu Fujisawa",
+        "Masaaki Kondo"
+      ],
+      "abstract": "We systematically investigate the parameter-efficient fine-tuning design space under practical data and compute constraints, and propose D2-LoRA. D2-LoRA achieves 76.4 percent average accuracy across eight question answering and reading comprehension benchmarks using only 5k training samples per task and two epochs, while preserving algebraic mergeability at inference with near-exact numerical equivalence. The method combines signed low-rank residual updates with additive and subtractive components, together with a train-time column-wise projection that keeps each column close to its original norm. After training, the adapter is merged into a single weight matrix, adding zero inference latency. Compared with LoRA, D2-LoRA improves average accuracy by 2.2 percentage points; at matched parameter counts (LoRA rank 2r versus D2-LoRA rank r), the improvement is 1.6 points, indicating gains from architectural design rather than increased parameterization. Compared with DoRA, it matches or exceeds performance on most tasks. Beyond QA and reading comprehension, D2-LoRA improves generative tasks (plus 1.2 ROUGE-L and plus 1.1 percent win rate) and shows 36 percent lower training volatility. The merge preserves numerical fidelity (mean gap about 0.03 percentage points) and recovers about 1.91x evaluation throughput. Training overhead is 19 percent, comparable to DoRA, and decreases with longer input sequences. We provide a geometric analysis explaining how the projection stabilizes training, together with ablation studies isolating the contribution of each design component.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14728v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14728v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
       "arxiv_id": "2602.14721v1",
       "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
       "authors": [
@@ -1179,7 +1582,31 @@
         "cs.AI"
       ],
       "tags": [
-        "LLM"
+        "LLM",
+        "Search Agent"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14710v1",
+      "title": "Orcheo: A Modular Full-Stack Platform for Conversational Search",
+      "authors": [
+        "Shaojie Jiang",
+        "Svitlana Vakulenko",
+        "Maarten de Rijke"
+      ],
+      "abstract": "Conversational search (CS) requires a complex software engineering pipeline that integrates query reformulation, ranking, and response generation. CS researchers currently face two barriers: the lack of a unified framework for efficiently sharing contributions with the community, and the difficulty of deploying end-to-end prototypes needed for user evaluation. We introduce Orcheo, an open-source platform designed to bridge this gap. Orcheo offers three key advantages: (i) A modular architecture promotes component reuse through single-file node modules, facilitating sharing and reproducibility in CS research; (ii) Production-ready infrastructure bridges the prototype-to-system gap via dual execution modes, secure credential management, and execution telemetry, with built-in AI coding support that lowers the learning curve; (iii) Starter-kit assets include 50+ off-the-shelf components for query understanding, ranking, and response generation, enabling the rapid bootstrapping of complete CS pipelines. We describe the framework architecture and validate Orcheo's utility through case studies that highlight modularity and ease of use. Orcheo is released as open source under the MIT License at https://github.com/ShaojieJiang/orcheo.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14710v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14710v1",
+      "primary_category": "cs.IR",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ],
+      "tags": [
+        "Information Retrieval"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -1224,6 +1651,43 @@
       "pdf_url": "https://arxiv.org/pdf/2602.14696v1",
       "primary_category": "cs.LG",
       "categories": [
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.15084v1",
+      "title": "TokaMind: A Multi-Modal Transformer Foundation Model for Tokamak Plasma Dynamics",
+      "authors": [
+        "Tobia Boschi",
+        "Andrea Loreti",
+        "Nicola C. Amorisco",
+        "Rodrigo H. Ordonez-Hurtado",
+        "Cécile Rousseau",
+        "George K. Holt",
+        "Eszter Székely",
+        "Alexander Whittle",
+        "Samuel Jackson",
+        "Adriano Agnello",
+        "Stanislas Pamela",
+        "Alessandra Pascale",
+        "Robert Akers",
+        "Juan Bernabe Moreno",
+        "Vassil Alexandrov",
+        "Mykhaylo Zayats"
+      ],
+      "abstract": "We present TokaMind, an open-source foundation model framework for fusion plasma modeling, based on a Multi-Modal Transformer (MMT) and trained on heterogeneous tokamak diagnostics from the publicly available MAST dataset. TokaMind supports multiple data modalities (time-series, 2D profiles, and videos) with different sampling rates, robust missing-signal handling, and efficient task adaptation via selectively loading and freezing four model components. To represent multi-modal signals, we use a training-free Discrete Cosine Transform embedding (DCT3D) and provide a clean interface for alternative embeddings (e.g., Variational Autoencoders - VAEs). We evaluate TokaMind on the recently introduced MAST benchmark TokaMark, comparing training and embedding strategies. Our results show that fine-tuned TokaMind outperforms the benchmark baseline on all but one task, and that, for several tasks, lightweight fine-tuning yields better performance than training the same architecture from scratch under a matched epoch budget. These findings highlight the benefits of multi-modal pretraining for tokamak plasma dynamics and provide a practical, extensible foundation for future fusion modeling tasks. Training code and model weights will be made publicly available.",
+      "arxiv_url": "http://arxiv.org/abs/2602.15084v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.15084v1",
+      "primary_category": "physics.plasm-ph",
+      "categories": [
+        "physics.plasm-ph",
+        "cs.AI",
         "cs.LG"
       ],
       "tags": [
@@ -1302,6 +1766,7 @@
         "cs.AI"
       ],
       "tags": [
+        "Agentic AI",
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -1356,6 +1821,34 @@
       "conference": null
     },
     {
+      "arxiv_id": "2602.14655v1",
+      "title": "Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech",
+      "authors": [
+        "Xiao Wei",
+        "Bin Wen",
+        "Yuqin Lin",
+        "Kai Li",
+        "Mingyang gu",
+        "Xiaobao Wang",
+        "Longbiao Wang",
+        "Jianwu Dang"
+      ],
+      "abstract": "Early diagnosis of Alzheimer's Disease (AD) is crucial for delaying its progression. While AI-based speech detection is non-invasive and cost-effective, it faces a critical data efficiency dilemma due to medical data scarcity and privacy barriers. Therefore, we propose FAL-AD, a novel framework that synergistically integrates federated learning with data augmentation to systematically optimize data efficiency. Our approach delivers three key breakthroughs: First, absolute efficiency improvement through voice conversion-based augmentation, which generates diverse pathological speech samples via cross-category voice-content recombination. Second, collaborative efficiency breakthrough via an adaptive federated learning paradigm, maximizing cross-institutional benefits under privacy constraints. Finally, representational efficiency optimization by an attentive cross-modal fusion model, which achieves fine-grained word-level alignment and acoustic-textual interaction. Evaluated on ADReSSo, FAL-AD achieves a state-of-the-art multi-modal accuracy of 91.52%, outperforming all centralized baselines and demonstrating a practical solution to the data efficiency dilemma. Our source code is publicly available at https://github.com/smileix/fal-ad.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14655v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14655v1",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
       "arxiv_id": "2602.14649v1",
       "title": "GradMAP: Faster Layer Pruning with Gradient Metric and Projection Compensation",
       "authors": [
@@ -1397,6 +1890,30 @@
       ],
       "tags": [
         "Context Compression",
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14635v1",
+      "title": "Alignment Adapter to Improve the Performance of Compressed Deep Learning Models",
+      "authors": [
+        "Rohit Raj Rai",
+        "Abhishek Dhaka",
+        "Amit Awekar"
+      ],
+      "abstract": "Compressed Deep Learning (DL) models are essential for deployment in resource-constrained environments. But their performance often lags behind their large-scale counterparts. To bridge this gap, we propose Alignment Adapter (AlAd): a lightweight, sliding-window-based adapter. It aligns the token-level embeddings of a compressed model with those of the original large model. AlAd preserves local contextual semantics, enables flexible alignment across differing dimensionalities or architectures, and is entirely agnostic to the underlying compression method. AlAd can be deployed in two ways: as a plug-and-play module over a frozen compressed model, or by jointly fine-tuning AlAd with the compressed model for further performance gains. Through experiments on BERT-family models across three token-level NLP tasks, we demonstrate that AlAd significantly boosts the performance of compressed models with only marginal overhead in size and latency.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14635v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14635v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "cs.IR"
+      ],
+      "tags": [
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -1447,7 +1964,8 @@
         "cs.CE"
       ],
       "tags": [
-        "Agentic AI"
+        "Agentic AI",
+        "LLM"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -1471,7 +1989,8 @@
         "cs.LG"
       ],
       "tags": [
-        "Agentic AI"
+        "Agentic AI",
+        "LLM"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -1496,6 +2015,30 @@
       ],
       "tags": [
         "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14559v1",
+      "title": "Fluid-Agent Reinforcement Learning",
+      "authors": [
+        "Shishir Sharma",
+        "Doina Precup",
+        "Theodore J. Perkins"
+      ],
+      "abstract": "The primary focus of multi-agent reinforcement learning (MARL) has been to study interactions among a fixed number of agents embedded in an environment. However, in the real world, the number of agents is neither fixed nor known a priori. Moreover, an agent can decide to create other agents (for example, a cell may divide, or a company may spin off a division). In this paper, we propose a framework that allows agents to create other agents; we call this a fluid-agent environment. We present game-theoretic solution concepts for fluid-agent games and empirically evaluate the performance of several MARL algorithms within this framework. Our experiments include fluid variants of established benchmarks such as Predator-Prey and Level-Based Foraging, where agents can dynamically spawn, as well as a new environment we introduce that highlights how fluidity can unlock novel solution strategies beyond those observed in fixed-population settings. We demonstrate that this framework yields agent teams that adjust their size dynamically to match environmental demands.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14559v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14559v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.MA"
+      ],
+      "tags": [
+        "Agentic AI"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -1572,6 +2115,78 @@
       "primary_category": "cs.CL",
       "categories": [
         "cs.CL",
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14506v1",
+      "title": "Covariance-Aware Transformers for Quadratic Programming and Decision Making",
+      "authors": [
+        "Kutay Tire",
+        "Yufan Zhang",
+        "Ege Onur Taga",
+        "Samet Oymak"
+      ],
+      "abstract": "We explore the use of transformers for solving quadratic programs and how this capability benefits decision-making problems that involve covariance matrices. We first show that the linear attention mechanism can provably solve unconstrained QPs by tokenizing the matrix variables (e.g.~$A$ of the objective $\\frac{1}{2}x^\\top Ax+b^\\top x$) row-by-row and emulating gradient descent iterations. Furthermore, by incorporating MLPs, a transformer block can solve (i) $\\ell_1$-penalized QPs by emulating iterative soft-thresholding and (ii) $\\ell_1$-constrained QPs when equipped with an additional feedback loop. Our theory motivates us to introduce Time2Decide: a generic method that enhances a time series foundation model (TSFM) by explicitly feeding the covariance matrix between the variates. We empirically find that Time2Decide uniformly outperforms the base TSFM model for the classical portfolio optimization problem that admits an $\\ell_1$-constrained QP formulation. Remarkably, Time2Decide also outperforms the classical \"Predict-then-Optimize (PtO)\" procedure, where we first forecast the returns and then explicitly solve a constrained QP, in suitable settings. Our results demonstrate that transformers benefit from explicit use of second-order statistics, and this can enable them to effectively solve complex decision-making problems, like portfolio construction, in one forward pass.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14506v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14506v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14502v1",
+      "title": "Behavioral Feature Boosting via Substitute Relationships for E-commerce Search",
+      "authors": [
+        "Chaosheng Dong",
+        "Michinari Momma",
+        "Yijia Wang",
+        "Yan Gao",
+        "Yi Sun"
+      ],
+      "abstract": "On E-commerce platforms, new products often suffer from the cold-start problem: limited interaction data reduces their search visibility and hurts relevance ranking. To address this, we propose a simple yet effective behavior feature boosting method that leverages substitute relationships among products (BFS). BFS identifies substitutes-products that satisfy similar user needs-and aggregates their behavioral signals (e.g., clicks, add-to-carts, purchases, and ratings) to provide a warm start for new items. Incorporating these enriched signals into ranking models mitigates cold-start effects and improves relevance and competitiveness. Experiments on a large E-commerce platform, both offline and online, show that BFS significantly improves search relevance and product discovery for cold-start products. BFS is scalable and practical, improving user experience while increasing exposure for newly launched items in E-commerce search. The BFS-enhanced ranking model has been launched in production and has served customers since 2025.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14502v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14502v1",
+      "primary_category": "cs.IR",
+      "categories": [
+        "cs.IR"
+      ],
+      "tags": [
+        "Information Retrieval"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14498v1",
+      "title": "Uncertainty-Aware Vision-Language Segmentation for Medical Imaging",
+      "authors": [
+        "Aryan Das",
+        "Tanishq Rachamalla",
+        "Koushik Biswas",
+        "Swalpa Kumar Roy",
+        "Vinay Kumar Verma"
+      ],
+      "abstract": "We introduce a novel uncertainty-aware multimodal segmentation framework that leverages both radiological images and associated clinical text for precise medical diagnosis. We propose a Modality Decoding Attention Block (MoDAB) with a lightweight State Space Mixer (SSMix) to enable efficient cross-modal fusion and long-range dependency modelling. To guide learning under ambiguity, we propose the Spectral-Entropic Uncertainty (SEU) Loss, which jointly captures spatial overlap, spectral consistency, and predictive uncertainty in a unified objective. In complex clinical circumstances with poor image quality, this formulation improves model reliability. Extensive experiments on various publicly available medical datasets, QATA-COVID19, MosMed++, and Kvasir-SEG, demonstrate that our method achieves superior segmentation performance while being significantly more computationally efficient than existing State-of-the-Art (SoTA) approaches. Our results highlight the importance of incorporating uncertainty modelling and structured modality alignment in vision-language medical segmentation tasks. Code: https://github.com/arya-domain/UA-VLS",
+      "arxiv_url": "http://arxiv.org/abs/2602.14498v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14498v1",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
         "cs.LG"
       ],
       "tags": [
@@ -1688,6 +2303,32 @@
       "conference": null
     },
     {
+      "arxiv_id": "2602.14482v1",
+      "title": "TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning",
+      "authors": [
+        "Hao Ding",
+        "Zhichuan Yang",
+        "Weijie Ge",
+        "Ziqin Gao",
+        "Chaoyi Lu",
+        "Lei Zhao"
+      ],
+      "abstract": "We address fine-grained visual reasoning in multimodal large language models (MLLMs), where key evidence may reside in tiny objects, cluttered regions, or subtle markings that are lost under a single global image encoding. We introduce TikArt (Thinking Aperture), an aperture-guided agent that casts multi-step vision-language reasoning as a decision process over regions of interest. TikArt follows a Think-Aperture-Observe loop, alternating between language generation and two aperture actions: Zoom extracts rectangular crops, while Segment invokes SAM2 to obtain mask-based crops for irregular targets. After every action, the model must produce an explicit observation, turning local visual cues into persistent linguistic memory. Built on Qwen3-VL-8B, TikArt optimizes its reasoning policy with AGRPO, a GRPO-style reinforcement learning algorithm with a two-stage curriculum: it warms up segmentation actions and then jointly optimizes visual math, fine-grained VQA, and segmentation, using rewards that couple task success with purposeful aperture use. Experiments on V*, HR-Bench-4K/8K, MME-RealWorld-Lite, MMStar, RefCOCO, and ReasonSeg show consistent gains over the backbone and yield interpretable aperture trajectories for high-resolution reasoning.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14482v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14482v1",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "tags": [
+        "Multi-Modal RAG"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
       "arxiv_id": "2602.14477v1",
       "title": "When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community",
       "authors": [
@@ -1734,6 +2375,7 @@
         "cs.LG"
       ],
       "tags": [
+        "Agentic AI",
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -1785,6 +2427,32 @@
       "primary_category": "cs.LG",
       "categories": [
         "cs.LG"
+      ],
+      "tags": [
+        "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14464v1",
+      "title": "CoCoDiff: Correspondence-Consistent Diffusion Model for Fine-grained Style Transfer",
+      "authors": [
+        "Wenbo Nie",
+        "Zixiang Li",
+        "Renshuai Tao",
+        "Bin Wu",
+        "Yunchao Wei",
+        "Yao Zhao"
+      ],
+      "abstract": "Transferring visual style between images while preserving semantic correspondence between similar objects remains a central challenge in computer vision. While existing methods have made great strides, most of them operate at global level but overlook region-wise and even pixel-wise semantic correspondence. To address this, we propose CoCoDiff, a novel training-free and low-cost style transfer framework that leverages pretrained latent diffusion models to achieve fine-grained, semantically consistent stylization. We identify that correspondence cues within generative diffusion models are under-explored and that content consistency across semantically matched regions is often neglected. CoCoDiff introduces a pixel-wise semantic correspondence module that mines intermediate diffusion features to construct a dense alignment map between content and style images. Furthermore, a cycle-consistency module then enforces structural and perceptual alignment across iterations, yielding object and region level stylization that preserves geometry and detail. Despite requiring no additional training or supervision, CoCoDiff delivers state-of-the-art visual quality and strong quantitative results, outperforming methods that rely on extra training or annotations.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14464v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14464v1",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
       ],
       "tags": [
         "LLM"
@@ -1886,6 +2554,7 @@
         "cs.LG"
       ],
       "tags": [
+        "Agentic AI",
         "LLM"
       ],
       "published_date": "2026-02-16",
@@ -1991,7 +2660,8 @@
       ],
       "tags": [
         "Agentic AI",
-        "LLM"
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -2015,6 +2685,34 @@
       ],
       "tags": [
         "LLM"
+      ],
+      "published_date": "2026-02-16",
+      "source": "arxiv",
+      "conference": null
+    },
+    {
+      "arxiv_id": "2602.14432v1",
+      "title": "S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations",
+      "authors": [
+        "Arnav Chavan",
+        "Nahush Lele",
+        "Udbhav Bamba",
+        "Sankalp Dayal",
+        "Aditi Raghunathan",
+        "Deepak Gupta"
+      ],
+      "abstract": "Activation outliers in large-scale transformer models pose a fundamental challenge to model quantization, creating excessively large ranges that cause severe accuracy drops during quantization. We empirically observe that outlier severity intensifies with pre-training scale (e.g., progressing from CLIP to the more extensively trained SigLIP and SigLIP2). Through theoretical analysis as well as empirical correlation studies, we establish the direct link between these activation outliers and dominant singular values of the weights. Building on this insight, we propose Selective Spectral Decay ($S^2D$), a geometrically-principled conditioning method that surgically regularizes only the weight components corresponding to the largest singular values during fine-tuning. Through extensive experiments, we demonstrate that $S^2D$ significantly reduces activation outliers and produces well-conditioned representations that are inherently quantization-friendly. Models trained with $S^2D$ achieve up to 7% improved PTQ accuracy on ImageNet under W4A4 quantization and 4% gains when combined with QAT. These improvements also generalize across downstream tasks and vision-language models, enabling the scaling of increasingly large and rigorously trained models without sacrificing deployment efficiency.",
+      "arxiv_url": "http://arxiv.org/abs/2602.14432v1",
+      "pdf_url": "https://arxiv.org/pdf/2602.14432v1",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
+      ],
+      "tags": [
+        "LLM",
+        "Multi-Modal RAG"
       ],
       "published_date": "2026-02-16",
       "source": "arxiv",
@@ -2112,6 +2810,7 @@
         "cs.AI"
       ],
       "tags": [
+        "Multi-Modal RAG",
         "Personalization"
       ],
       "published_date": "2026-02-16",
@@ -2255,8 +2954,11 @@
   "available_tags": [
     "Agentic AI",
     "Context Compression",
+    "Information Retrieval",
     "LLM",
+    "Multi-Modal RAG",
     "Personalization",
-    "RAG"
+    "RAG",
+    "Search Agent"
   ]
 }
