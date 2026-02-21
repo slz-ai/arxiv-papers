@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-02-19T22:18:39.968096Z",
+  "last_updated": "2026-02-21T04:23:40.995548Z",
   "available_dates": [
+    "2026-02-20",
     "2026-02-18",
     "2026-02-17",
     "2026-02-16"
@@ -30,6 +31,7 @@
   "all_tags": [
     "Agentic AI",
     "Context Compression",
+    "Information Retrieval",
     "LLM",
     "Multi-Modal RAG",
     "Personalization",
